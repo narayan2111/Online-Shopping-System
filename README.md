@@ -14,3 +14,35 @@ updating, deletion for the same. It also stores the details of invoices generate
 credit card.
 The primary features of the project entitled "ONLINE SHOPPING SYSTEM" are high accuracy, design flexibility and easy availability. And
 also it uses database tables Representing entities and relationships between entities.
+# OVERVIEW OF ONLINE SHOPPING
+The central concept of the application is to allow the customer to shop
+virtually using the Internet and allow customers to buy the items and
+articles of their desire from the store. The information pertaining to the
+products are stores on an RDBMS at the server side (store). The Server
+process the customers and the items are shipped to the address submitted
+by them.
+The application was designed into two modules first Os for the
+customers who wish to buy the articles. Second is for the storekeepers
+who maintains and updates the information pertaining to the articles and
+those of the customers?
+The end user of this product is a departmental store where the
+application is hosted on the web and the administrator maintains the
+database. The application which is deployed at the customer database,
+the details of the items are brought forward from the database for the
+customer view based on the selection through the menu and the database
+of all the products are updated at the end of each transaction.
+Data entry into the application can be done through various screens
+designed for various levels of users. Once the authorized personnel feed
+the relevant data into the system, several reports could be generated as
+per the security
+
+# OBJECTIVES
+• The users shall be able to add an item to the cart in fewer than 5 seconds.
+• The users shall be able to view information about an item in fewer than 5
+seconds.
+• The users shall be able to check out the items in the shopping cart within 10
+seconds after completing the order form.
+• The navigation between pages shall take fewer than 5 seconds.
+• The application shall be able to do a validation check on the information
+provided in the user-authentication form and the place-order form to avoid
+false or incomplete information
